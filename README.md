@@ -16,6 +16,7 @@ orders_num（用户这个商品购买的订单数）
 hot_item(热销商品)
 
 具体算法过程参考:
+http://blog.csdn.net/chabale/article/details/76549183
 
 
 
